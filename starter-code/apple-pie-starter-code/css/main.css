@@ -25,3 +25,9 @@ body{
 .texto{
   font-size: 19px;
 }
+#img-prueba{
+  width: 300px;
+}
+ul{
+  list-style-type: '- ';
+}
